@@ -1,0 +1,6 @@
+:root{color-scheme:light;font-family:system-ui,sans-serif;color:#33261b;background:#fbf6ee}
+body{max-width:820px;margin:0 auto;padding:2rem 1.25rem 4rem;line-height:1.65}
+h1,h2{line-height:1.2;color:#9a3b1e}
+a{color:#245c8a}
+.card{background:#fff;border-radius:14px;padding:1rem 1.25rem;margin:1rem 0;box-shadow:0 1px 4px #0001}
+footer{margin-top:3rem;color:#6b5a4d;font-size:.9rem}
